@@ -35,9 +35,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Other Knowledge:
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react5&labelColor=0D1117)&nbsp;
-![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=next5&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node5&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react.js5&labelColor=0D1117)&nbsp;
+![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=next.js5&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js5&labelColor=0D1117)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite5&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
