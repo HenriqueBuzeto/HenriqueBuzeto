@@ -22,7 +22,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 
  
 ### Tools:
