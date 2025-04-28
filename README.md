@@ -41,7 +41,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-c#-0D1117?style=for-the-badge&logo=c#&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=cSharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Tailwind.CSS](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
