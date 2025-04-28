@@ -54,7 +54,7 @@
 ![Next.js](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CyberSecurity](https://img.shields.io/badge/-Cyber-Security-0D1117?style=for-the-badge&logo=Cyber-Security&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CyberSecurity](https://img.shields.io/badge/-Cyber_Security-0D1117?style=for-the-badge&logo=Cyber_Security&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
