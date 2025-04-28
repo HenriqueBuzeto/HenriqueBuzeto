@@ -41,7 +41,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C#](https://img.shields.io/badge/-c#-0D1117?style=for-the-badge&logo=c#&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Tailwind.CSS](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
@@ -54,7 +54,7 @@
 ![Next.js](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CyberSecurity](https://img.shields.io/badge/-Cyber_Security-0D1117?style=for-the-badge&logo=Cyber_Security&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-0D1117?style=for-the-badge&logo=CyberSecurity&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
